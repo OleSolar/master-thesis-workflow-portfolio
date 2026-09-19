@@ -11,7 +11,6 @@ The focus is on the full analytical workflow: turning a policy question into an 
 ### Presentation and thesis
 
 - [Portfolio presentation](Master_Thesis_Workflow.pdf) — research question, data engineering, model choices, robustness checks and main findings.
-- [Full thesis](Master_Thesis_Solar_Public.pdf) — literature review, methodological details and complete results.
 
 ### R scripts, in workflow order
 
